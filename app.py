@@ -147,7 +147,7 @@ def calculate_rooms(area):
         return "?"
     if area < 40:
         return 1
-    elif area < 70:
+    elif area < 81:
         return 2
     else:
         return 3
